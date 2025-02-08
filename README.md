@@ -5,9 +5,9 @@ Hi! I'm Haroon Rasool, a passionate software developer specializing in **web dev
 ## About Me
 I'm a developer with experience in building scalable web apps and mobile solutions. I enjoy solving complex problems with clean, efficient code.
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [github.com/devharoona](https://github.com/devharoona)
-- **LinkedIn**: [linkedin.com/in/haroon-rasool](https://www.linkedin.com/in/haroon-rasool)
+- **Email**: [Haroon Rasool](mailto:Haroonrasool2@gmail.com)
+- **GitHub**: [Haroon Rasool](https://github.com/devharoona)
+- **LinkedIn**: [Haroon-Rasool](https://www.linkedin.com/in/haroon-rasool)
 
 ## Skills
 - **Languages**: JavaScript, Python, TypeScript, PHP, java, c.
@@ -36,8 +36,8 @@ Built and customized WordPress websites for clients in e-commerce and real estat
 
 ## Education
 **B.Tech in Computer Science**  
-[University Name], 2020
-
+[GRIET], 2023 to 2027
+[HYD]
 ## Contact
 Feel free to reach out via email or LinkedIn for collaborations or job opportunities!
 
