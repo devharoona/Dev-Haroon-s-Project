@@ -1,4 +1,4 @@
-# Dev-Haroon-s-Project
+# Dev-Haroon-Rasool
 
 Hi! I'm Haroon Rasool, a passionate software developer specializing in **web development** and **full-stack applications**. Below you’ll find some of my key projects, skills, and contact info.
 
